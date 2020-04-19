@@ -11,6 +11,7 @@ namespace sf365.checkin
         }
 
         public foo() {
+            // adding some comments
             alert("foo");
         }
 

@@ -8,6 +8,7 @@ var sf365;
                 this.isBusy = ko.observable(false);
             }
             CheckInViewModel.prototype.foo = function () {
+                // adding some comments
                 alert("foo");
             };
             return CheckInViewModel;
